@@ -19,6 +19,4 @@
         }
     }, { once: true });
 
-    window.addEventListener('click', _redirect, { once: true });
-
 })(window, document);
